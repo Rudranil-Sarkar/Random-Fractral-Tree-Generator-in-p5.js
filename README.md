@@ -4,4 +4,4 @@
 
 ### TODO: A better random generating algorithm
 
-[preview](https://rawgit.com/Wolfattackx/Random-Fractral-Tree-Generator-in-p5.js/master/index.html)
+[Kinda slow to load but here's the preview](https://combinatronics.com/Wolfattackx/Random-Fractral-Tree-Generator-in-p5.js/master/index.html)
