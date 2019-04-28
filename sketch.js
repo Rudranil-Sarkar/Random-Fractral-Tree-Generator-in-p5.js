@@ -15,7 +15,7 @@ function reset()
   translate(width / 2, height);
   background(120);
   angle = random(45, 49.5);
-  stroke(255, 100, 100, 200);
+  stroke(165,42,42);
   branch(lenght);
 }
 
