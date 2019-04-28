@@ -15,6 +15,7 @@ function reset()
   translate(width / 2, height);
   background(120);
   angle = random(45, 49.5);
+  stroke(255, 100, 100, 200);
   branch(lenght);
 }
 
@@ -26,7 +27,6 @@ function mouseClicked()
 function branch(_lenght)
 {
   var temp = random(0.5, 0.9);
-  //console.log(temp);
   line(0, 0, 0, -_lenght);
 
   translate(0, -_lenght);
